@@ -87,4 +87,4 @@ console.log(!bool);                //OUTPUT : false
 //condition ? exprIfTrue : exprIfFalse
 let number= 20;
 const ans= number  >=0 ? "Positive" : "Negative";
-console.log(ans);               //OUTPUT:Negative
+console.log(ans);               //OUTPUT:Positive
