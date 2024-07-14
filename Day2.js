@@ -1,4 +1,6 @@
-// Day2
+// OPERATORS
+
+// DAY 2
 
 //  *** Activity 1 : Arithmetics Operations  ***
 
