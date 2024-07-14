@@ -1,3 +1,5 @@
+// VARIABLES AND DATA TYPES
+
 // DAY 1
 
 // *** Activity 1 : Variable Declaration ***
